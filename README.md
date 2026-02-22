@@ -164,11 +164,10 @@ Each Program → Sections (A, B, C, D) → Years (1-4) → Semesters (1-8)
 
 ## Team
 
-| Role      | Name  |
-|-----------|-------|
-| Developer | —     |
-| Developer | —     |
-| Developer | —     |
+| Role      | Name            |
+|-----------|-----------------|
+| Developer | Pranav Tripathi |
+
 
 *K.R. Mangalam University — B.Tech CSE, 2nd Year*
 
