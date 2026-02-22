@@ -1,7 +1,5 @@
 # SUMS — Smart University Management System
 
-![KRMU Logo](logo.jpg)
-
 ## Project Description
 
 SUMS (Smart University Management System) is a web-based platform for K.R. Mangalam University that streamlines academic operations across student, teacher, and admin dashboards. Features include QR-based attendance with anti-cheating rotation, internal assessment management, real-time notice delivery, fee tracking, and grievance handling — all in one unified system.
